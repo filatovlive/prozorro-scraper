@@ -14,7 +14,7 @@
 ## Де знаходиться скрипт
 
 - Скрипт: [prozorro_search_scraper.py](</tender-scraper/prozorro_search_scraper.py>)
-- Output за замовчуванням: [prozorro_tenders_atomenergomash_2026.xlsx](</tender-scraper/output/prozorro_tenders_atomenergomash_2026.xlsx>)
+- Output за замовчуванням: [prozorro_tenders_atomenergomash_2026.xlsx](</tender-scraper/output/prozorro_tenders_2026.xlsx>)
 
 ## Як працює скрипт
 
@@ -85,7 +85,7 @@
 Приклад:
 
 ```python
-"buyer": ['ФІЛІЯ "ВІДОКРЕМЛЕНИЙ ПІДРОЗДІЛ "АТОМЕНЕРГОМАШ" АКЦІОНЕРНОГО ТОВАРИСТВА "НАЦІОНАЛЬНА АТОМНА ЕНЕРГОГЕНЕРУЮЧА КОМПАНІЯ "ЕНЕРГОАТОМ"']
+"buyer": ['ТОВ "СУПЕРСИМЕТРІЯ"']
 ```
 
 ### `year`
